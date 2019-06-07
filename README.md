@@ -7,4 +7,6 @@ In this project I aim to model the task of estimating RUL of machines as a regre
 
 - Regression approach provides a prediction of the remaining useful life of the machine (in hours/cycles).
 
+![Neural-network model](https://github.com/archd3sai/Aircraft-Engine-RUL-Prediction/blob/master/Images/1.png)
+
 
