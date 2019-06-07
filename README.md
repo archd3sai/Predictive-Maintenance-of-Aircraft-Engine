@@ -7,6 +7,12 @@ In this project I aim to model the task of estimating RUL of machines as a regre
 
 - Regression approach provides a prediction of the remaining useful life of the machine (in hours/cycles).
 
+In order to accomplish this task, I built an LSTM model which can be shown below. 
 ![Neural-network model](https://github.com/archd3sai/Aircraft-Engine-RUL-Prediction/blob/master/Images/1.png)
 
+The model is trained and losses can be see below.
+![loss](https://github.com/archd3sai/Aircraft-Engine-RUL-Prediction/blob/master/Images/loss.png)
+
+I used this trained model to predict the RUL of engines from the test dataset which can be seen below.
+![RUL](https://github.com/archd3sai/Aircraft-Engine-RUL-Prediction/blob/master/Images/RUL.png)
 
