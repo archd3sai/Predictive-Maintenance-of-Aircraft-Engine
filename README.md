@@ -14,28 +14,17 @@ The engine is operating normally at the start of each time series, and develops 
 
 The training set includes operational data from 100 different engines. The lengths of the run varied with a minimum run length of 128 cycles and the maximum length of 356 cylces. The testing set includes operational data from 100 different engines. The engines in the test dataset and copletely different from engines in the training data set.
 
+## EDA
+
 ## Models for Predictive Maintenance
 
-### Exponential Degradation model for RUL Prediction
-
-
-### Similarity-based model for RUL Prediction
-
-
-### LSTM model for RUL Prediction
-
-
-### LSTM model for binary and multiclass classification
-
-
-### RNN model for binary and multiclass classification
-
-
-### 1D CNN for binary and multiclass classification
-
-
-### 1D CNN-SVM for binary classification
-
+(1) Exponential Degradation model for RUL Prediction
+(2) Similarity-based model for RUL Prediction
+(3) LSTM model for RUL Prediction
+(4) LSTM model for binary and multiclass classification
+(5) RNN model for binary and multiclass classification
+(6) 1D CNN for binary and multiclass classification
+(7) 1D CNN-SVM for binary classification
 
 ### Experimenatation
 
