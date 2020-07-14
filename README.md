@@ -19,11 +19,17 @@ The training set includes operational data from 100 different engines. The lengt
 ## Models for Predictive Maintenance
 
 (1) Exponential Degradation model for RUL Prediction
+
 (2) Similarity-based model for RUL Prediction
+
 (3) LSTM model for RUL Prediction
+
 (4) LSTM model for binary and multiclass classification
+
 (5) RNN model for binary and multiclass classification
+
 (6) 1D CNN for binary and multiclass classification
+
 (7) 1D CNN-SVM for binary classification
 
 ### Experimenatation
