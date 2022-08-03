@@ -8,7 +8,7 @@ The objective of this project is to implement various Predictive Maintenance met
 2. Regression: Predicting the remaining useful life of a machine 
 
 ## Data
-Data sets consists of multiple multivariate time series. Each time series is from a different engine – i.e., the data can be considered to be from a fleet of engines of the same type. 
+Data sets consists of multiple multivariate time series. Each time series is from a different engine – i.e., the data can be considered to be from a fleet of engines of the same type. You can find the data [here](https://www.kaggle.com/datasets/behrad3d/nasa-cmaps).
 
 The engine is operating normally at the start of each time series, and develops a fault at some point during the series. In the training set, the fault grows in magnitude until system failure. In the test set, the time series ends some time prior to system failure. 
 
